@@ -5,7 +5,7 @@ How to use
 
 To use this script on your raspberry :
 
-`bash < (curl -sL https://raw.githubusercontent.com/boxenergie/Script_Pi/main/script_install.sh)`
+`bash < (curl -sL https://raw.githubusercontent.com/boxenergie/script_Pi/main/script_install.sh)`
 
 Credits
 =================
