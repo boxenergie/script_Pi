@@ -1,5 +1,12 @@
 This script install the boxenergie on a Raspberry Pi.
 
+This script will :
+  * Update your raspberry
+  * Install Node-RED and Node.js (installation based on the script available on nodered.org)
+  * Install required nodes
+  * Add the Node-Red flow of the boxenergie
+  * Start Node-Red and make it persistant
+
 How to use
 =================
 
