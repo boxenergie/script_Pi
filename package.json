@@ -1,0 +1,21 @@
+{
+  "name": "sunshare_boxenergie",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "node-red-contrib-counter": "~0.1.5",
+    "node-red-contrib-play-audio": "^2.4.0",
+    "node-red-contrib-statistics": "~2.2.2",
+    "node-red-dashboard": "~2.20.0",
+    "node-red-node-openweathermap": "~0.2.2",
+    "node-red-node-pi-gpio": "^1.0.9",
+    "node-red-node-ping": "^0.2.0",
+    "node-red-node-random": "^0.1.4",
+    "node-red-node-serialport": "^0.10.1",
+    "node-red-node-smooth": "^0.1.2"
+  }
+}
