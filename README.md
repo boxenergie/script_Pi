@@ -5,7 +5,7 @@ How to use
 
 To use this script on your raspberry :
 
-` bash < (curl -sL https://raw.githubusercontent.com/bailletmanon/Sunshare-script/master/script_install)`
+`bash < (curl -sL https://raw.githubusercontent.com/boxenergie/Script_Pi/main/script_install.sh)`
 
 Credits
 =================
