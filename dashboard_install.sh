@@ -9,6 +9,7 @@ echo "Fin d'installation de Node-Red et Node.js"
 echo "Ajout du flow Node-Red de la boxenergie. "
 mv package.json ./.node-red
 mv flows_raspberrypi.json ./.node-red
+mv settings.js ./.node-red
 
 echo "Installation des noeuds supplémentaires requis."
 cd .node-red
