@@ -1,4 +1,4 @@
-This script install the boxenergie on a Raspberry Pi.
+This script install the boxenergie on a Raspberry Pi and can take approximately 20 minutes. It needs an internet connection to work.
 
 This script will :
   * Update your raspberry
@@ -10,9 +10,11 @@ This script will :
 How to use
 =================
 
-To use this script on your raspberry :
+To use the boxenergie on your raspberry (**in /home directory**) :
 
 `bash <(curl -sL https://raw.githubusercontent.com/boxenergie/script_Pi/main/script_install.sh)`
+
+Then, you can look at the [Shield](https://github.com/boxenergie/sunshield_linky) for the connection between your raspberry and your Linky.
 
 Credits
 =================
